@@ -10,7 +10,7 @@ John Howard, when faced with flagging support from the electorate, resorted to e
 hate and fear for his political gain such as the [Tampa Affair](https://en.wikipedia.org/wiki/Tampa_affair) and the
 [September 11 Attacks](https://en.wikipedia.org/wiki/11_September_attacks) in 2001 and the
 [War On Terror](https://en.wikipedia.org/wiki/War_on_Terror) in 2003/4. Poor choices of opposition leaders on behalf
-of the Australian Labor Party (Mark Latham in particular) also helped him retain his Prime Minister-ship for an
+of the Australian Labor Party (Mark Latham in particular) also helped him retain his Prime-ministership for an
 unprecedented four terms.
 
 Economically John Howard and Peter Costello presided over phenomenal returns from the mining boom but, unlike
