@@ -1,0 +1,27 @@
+---
+# Let's add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+/* We need to add display:inline in order to align the '>>' of the 'read more' link */
+.post-excerpt p {
+	display:inline;
+}
+
+$title-color: white;
+$title-shadow: black;
+
+.page-title {
+	color: $title-color;
+	text-shadow: $title-shadow;
+}
+
+.page-description {
+	color: $title-color;
+	text-shadow: 1px 1px $title-shadow;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax"
+;

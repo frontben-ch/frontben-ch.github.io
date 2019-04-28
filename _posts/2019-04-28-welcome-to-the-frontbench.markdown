@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to The Front Bench!"
 date:   2019-04-28 00:50:17 +1000
 categories: jekyll update
 ---
