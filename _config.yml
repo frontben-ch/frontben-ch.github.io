@@ -1,6 +1,6 @@
 name: The Front Bench
-description: Musings about Australian Politics
-meta_description: "The Front Bench, Musings about Australian Politics"
+description: Musings on Australian Politics
+meta_description: "The Front Bench, Musings on Australian Politics"
 
 markdown: kramdown
 highlighter: pygments
