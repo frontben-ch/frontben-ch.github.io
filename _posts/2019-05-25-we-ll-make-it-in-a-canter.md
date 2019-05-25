@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We'll meet our Paris Agreement targets in a canter and other complete fabrications"
+title:  "\"We'll meet our Paris Agreement targets in a canter\" and other complete fabrications"
 date:   2019-05-25 16:00:00 +1000
 #categories:
 #permalink: /welcome.html
@@ -27,7 +27,15 @@ last 6 years, I can not share the Prime Minister's optimism with respect to
 achieving these goals. Our current estimated emissions are 135.6 mio t CO2 per
 quarter (as of June 2018) which equates to annual emissions of 542.4 mio t CO2.
 These emissions have been mostly going up since the repeal of the Carbon Tax by
-the Abbott goverment in 2013. Incidently, the introduction of the Carbon Tax started a
-period of steady decline in CO2 emissions. In other words we are currently
-around 10.3% below 2005 levels but year on year emissions have been increasing
-despite reductions in emissions in the energy sector.
+the Abbott government in 2013. Incidentally, the introduction of the Carbon Tax
+started a period of steady decline in CO2 emissions. In other words we are
+currently around 10.3% below 2005 levels but year on year emissions have been
+increasing despite emissions reductions in the energy sector due to increased
+household uptake of solar power and retirement of ageing coal-fired
+power-stations. This will in all likelihood mean an increased focus on emissions
+reduction in the transport and agricultural sectors unless - which is highly
+unlikely with the current government - and even more aggressive reduction in the
+power generation sector is undertaken. I wonder if the electorate in regional
+Australia is even aware of the impact this could have on them - would they have
+abandoned Labour as they did at the last election knowing this?
+
