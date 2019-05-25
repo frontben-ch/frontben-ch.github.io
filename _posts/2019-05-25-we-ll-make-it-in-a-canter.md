@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "\"We'll meet our Paris Agreement targets in a canter\" and other complete fabrications"
+title:  "\"We'll meet our Paris Agreement targets in a canter\" ... really?"
 date:   2019-05-25 16:00:00 +1000
 #categories:
 #permalink: /welcome.html
 ---
-Why is it for politicians so easy to tell complete and utter lies without any
-real consequences? What makes this even worse is when lies like _"We'll meet our
-Paris Agreement targets in a canter"_ come from our very own Prime Minister
-Scott Morrison who is very outspoken about his christian faith - I wonder if he
-has ever read the 10 Commandments... - and is not challenged on these grounds at
-all.
+Why is it for politicians so easy to tell complete and utter untruths without
+any real consequences? This is even worse when statements like
+_"We'll meet our Paris Agreement targets in a canter"_ come from our very own
+Prime Minister Scott Morrison who is very outspoken about his christian faith -
+I wonder if he has ever read the 10 Commandments, especially the 9th - and is
+not challenged on these grounds at all.
 
 Let's analyse this statement. Meeting a target in a canter would imply that,
 firstly we are going to meet the target and secondly we're going to do so
@@ -32,10 +32,11 @@ started a period of steady decline in CO2 emissions. In other words we are
 currently around 10.3% below 2005 levels but year on year emissions have been
 increasing despite emissions reductions in the energy sector due to increased
 household uptake of solar power and retirement of ageing coal-fired
-power-stations. This will in all likelihood mean an increased focus on emissions
-reduction in the transport and agricultural sectors unless - which is highly
-unlikely with the current government - and even more aggressive reduction in the
-power generation sector is undertaken. I wonder if the electorate in regional
+power-stations.
+
+All this will, in all likelihood, mean an increased focus on emissions reduction in
+the transport and agricultural sectors unless - which is highly unlikely with
+the current government - and even more aggressive reduction in the power
+generation sector is undertaken. I wonder if the electorate in regional
 Australia is even aware of the impact this could have on them - would they have
 abandoned Labour as they did at the last election knowing this?
-
