@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "&quot;We'll meet our Paris Agreement targets in a canter&quot; ... really?"
+description: "Is Scott Morrison honest when he says &quot;We'll meet our Paris Agreement targets in a canter&quot;?"
 date:   2019-05-25 16:00:00 +1000
 #categories:
 #permalink: /welcome.html
