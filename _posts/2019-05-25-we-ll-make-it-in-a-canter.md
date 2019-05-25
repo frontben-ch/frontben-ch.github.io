@@ -41,7 +41,7 @@ uptake of solar power and retirement of ageing coal-fired power-stations.
 
 All this will, in all likelihood, mean an increased focus on emissions reduction in
 the transport and agricultural sectors unless - which is highly unlikely with
-the current government - and even more aggressive reduction in the power
+the current government - an even more aggressive reduction in the power
 generation sector is undertaken. I wonder if the electorate in regional
 Australia is even aware of the impact this could have on them - would they have
 abandoned Labour as they did at the last election knowing this?
