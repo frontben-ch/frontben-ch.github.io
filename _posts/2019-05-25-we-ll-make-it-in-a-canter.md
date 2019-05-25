@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"We'll meet our Paris Agreement targets in a canter\" ... really?"
+title:  "&quot;We'll meet our Paris Agreement targets in a canter&quot; ... really?"
 date:   2019-05-25 16:00:00 +1000
 #categories:
 #permalink: /welcome.html
