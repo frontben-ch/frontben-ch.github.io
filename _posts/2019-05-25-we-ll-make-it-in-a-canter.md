@@ -10,7 +10,7 @@ Why is it for politicians so easy to tell complete and utter untruths without
 any real consequences? This is even worse when statements like
 _"We'll meet our Paris Agreement targets in a canter"_ come from our very own
 Prime Minister Scott Morrison who is very outspoken about his christian faith -
-I wonder if he has ever read the 10 Commandments, especially the 9th...
+I wonder if he has ever read the 10 Commandments, especially the 9<sup>th</sup>...
 
 Let's analyse this statement. Meeting a target in a canter would imply that,
 firstly we are going to meet the target and secondly we're going to do so
