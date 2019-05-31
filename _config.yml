@@ -2,6 +2,9 @@ name: The Front Bench
 description: Musings on Australian Politics
 meta_description: "The Front Bench, Musings on Australian Politics"
 
+timezone: Australia/Canberra
+encoding: UTF-8
+
 markdown: kramdown
 highlighter: pygments
 logo: false

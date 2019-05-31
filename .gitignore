@@ -1,4 +1,8 @@
-*.bak
+# jekyll
 _site
 .sass-cache
 .jekyll-metadata
+# editor
+*.bak
+.*.swp
+~$*.*

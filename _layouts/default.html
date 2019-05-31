@@ -13,12 +13,16 @@
 
     <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
     <!-- fonts -->
+    {% if jekyll.environment == "production" %}
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    {% endif %}
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
     <link rel="icon" type="image/png" href="/assets/images/bench.png" />
     {% include meta.html %}
+    {% if jekyll.environment == "production" %}
     {% include adsense.html %}
+    {% endif %}
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
@@ -32,11 +36,14 @@
         <a href="http://github.com/rosario/kasper">Kasper theme</a>
       </section>
     </footer>
-    
+
+    {% if jekyll.environment == "production" %}
     <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
+    {% endif %}
 
+    {% if jekyll.environment == "production" %}
     <!-- Google Analytics Tracking code -->
     <script type="text/javascript">
 
@@ -51,5 +58,6 @@
       })();
 
     </script>   
+    {% endif %}
 </body>
 </html>
