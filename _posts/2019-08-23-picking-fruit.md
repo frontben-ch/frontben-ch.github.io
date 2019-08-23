@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Picking Fruit Halts Sea-Level Rise! Really???"
+title:  "Picking Fruit Halts Sea-Level Rise!"
 description: "Picking fruit in Australia will halt sea-level rise!"
 date:   2019-08-23 12:00:00 +1000
 #categories:
