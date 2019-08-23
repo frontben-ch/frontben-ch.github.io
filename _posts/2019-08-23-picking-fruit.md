@@ -15,12 +15,12 @@ Crisis because, and I quote, _"many of their workers come here to pick our
 fruit"_.
 
 This statement is on par with Peter Dutton's gaffe at talks with Pacific
-Island leaders in Port Moreseby in 2015. Not realising he was on microphone,
+Island leaders in Port Moresby in 2015. Not realising he was on microphone,
 he was overheard saying to Tony Abbott that _"time doesn't mean anything when
 you're about to have water lapping at your door"_.
 
 There is a level of both ignorance and complete lack of respect for our Pacific
-Island brethren that is so horific, it beggars belief. What must politicians do
+Island brethren that is so horrific, it beggars belief. What must politicians do
 to be punished at the ballot box?
 
 It's time, as Australian voters, that we started applying some prerequisites
