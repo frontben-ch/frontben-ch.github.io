@@ -6,13 +6,14 @@ date:   2019-08-23 12:00:00 +1000
 #categories:
 #permalink: /welcome.html
 ---
-![Michael McCormack]({{ "/assets/mccormack-picking-fruit.webp" | absolute_url }})
 
 Our Deputy Prime Minister Michael McCormack came with some profound wisdom the
 other day whilst acting as Prime Minister during Scott Morrison's trip to the
 Pacific Island's Forum. He stated the Pacific Islands would survive the Climate
 Crisis because, and I quote, _"many of their workers come here to pick our
 fruit"_.
+
+![Michael McCormack]({{ "/assets/images/posts/mccormack-picking-fruit.jpg" | absolute_url }})
 
 This statement is on par with Peter Dutton's gaffe at talks with Pacific
 Island leaders in Port Moresby in 2015. Not realising he was on microphone,
