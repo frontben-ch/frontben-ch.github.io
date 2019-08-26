@@ -17,3 +17,25 @@ plugins: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://frontben.ch/'
 author:         'The Front Bench'
+
+# Collections:
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
